@@ -2,8 +2,10 @@
 //
 
 #include <iostream>
+#include "PlayTogether.h"
 
 int main()
 {
     std::cout << "Hello World!\n";
+	std::cout << DANE_MSG << "\n";
 }
